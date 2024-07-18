@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------------------------------------------------
+	 	 	 	 	 	 	 	 	  Famous Laptop Store
+
+	 	 	 	 	 	 	 	  Hatiban , kathmandu  | 9821108680
+-----------------------------------------------------------------------------------------------------------------------------------
+
+/t/t/tBill no: 71
+date: 12/05/2023					 Time: 09:25:06
+name:  anup
+Address: ktm
+Contact Number: 123
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 Quantity: 3
+Total price: 6000
+
+Laptop Name: Swift 7				Company Name: Acer
+Price: $900					 Quantity: 8
+Total price: 7200
+
+Shipping cost: 250
+Total: 13200
+Grand total: 13450

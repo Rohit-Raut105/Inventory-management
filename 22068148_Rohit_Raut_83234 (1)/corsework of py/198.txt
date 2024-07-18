@@ -1,0 +1,15 @@
+\t			Bill no: 198
+date: 11/05/2023					 Time: 16:40:00
+name:  a
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 1
+Total price: 2000
+
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 
+Quantity: 3
+Total price: 5928
+
+vat amount: 1030.64
+Grand Total = 8958.64

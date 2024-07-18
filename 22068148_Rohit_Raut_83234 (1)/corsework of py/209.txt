@@ -1,0 +1,6 @@
+/t/t/tBill no: 209
+date: 11/05/2023					 Time: 15:59:57
+name:  w
+Address: w
+Contact Number: 1
+Total: 0

@@ -1,0 +1,15 @@
+\t			Bill no: 170
+date: 10/05/2023					 Time: 18:46:13
+name:  4
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 5
+Total price: 10000
+
+Laptop Name: Alienware				Company Name: Alienware
+Price: $1978					 
+Quantity: 5
+Total price: 9890
+
+vat amount: 2585.7000000000003
+Grand Total = 22475.7

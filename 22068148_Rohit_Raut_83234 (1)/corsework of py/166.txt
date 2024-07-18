@@ -1,0 +1,22 @@
+
+------------------------------------------------------------------------------------------------------------------------------------
+	 	 	 	 	 	 	 	 	  Famous Laptop Store
+
+	 	 	 	 	 	 	 	  Hatiban , kathmandu  | 9821108680
+-----------------------------------------------------------------------------------------------------------------------------------
+
+\t			Bill no: 166
+date: 12/05/2023					 Time: 09:04:03
+name:  anup
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 3
+Total price: 6000
+
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 
+Quantity: 4
+Total price: 7904
+
+vat amount: 1807.52
+Grand Total = 15711.52

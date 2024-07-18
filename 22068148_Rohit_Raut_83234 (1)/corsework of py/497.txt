@@ -1,0 +1,15 @@
+\t			Bill no: 497
+date: 10/05/2023					 Time: 18:30:24
+name:  1
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 10
+Total price: 20000
+
+Laptop Name: Macbook Pro 16				Company Name: Apple
+Price: $3500					 
+Quantity: 4
+Total price: 14000
+
+vat amount: 4420.0
+Grand Total :38420.0

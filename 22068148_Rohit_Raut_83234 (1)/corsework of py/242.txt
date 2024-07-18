@@ -1,0 +1,15 @@
+\t			Bill no: 242
+date: 11/05/2023					 Time: 22:12:17
+name:  Anup
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 1
+Total price: 2000
+
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 
+Quantity: 2
+Total price: 3952
+
+vat amount: 773.76
+Grand Total = 6725.76

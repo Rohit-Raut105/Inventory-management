@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------------------------------------------------
+	 	 	 	 	 	 	 	 	  Famous Laptop Store
+
+	 	 	 	 	 	 	 	  Hatiban , kathmandu  | 9821108680
+-----------------------------------------------------------------------------------------------------------------------------------
+
+/t/t/tBill no: 495
+date: 11/05/2023					 Time: 23:10:11
+name:  Anup
+Address: Kathmandu
+Contact Number: 12345
+Laptop Name: Alienware				Company Name: Alienware
+Price: $1978					 Quantity: 3
+Total price: 5934
+
+Laptop Name: Swift 7				Company Name: Acer
+Price: $900					 Quantity: 4
+Total price: 3600
+
+Shipping cost: 250
+Total: 9534
+Grand total: 9784

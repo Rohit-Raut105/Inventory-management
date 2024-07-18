@@ -1,0 +1,15 @@
+\t			Bill no: 169
+date: 10/05/2023					 Time: 18:43:05
+name:  1
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 1
+Total price: 2000
+
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 2
+Total price: 4000
+
+vat amount: 780.0
+Grand Total = 6780.0

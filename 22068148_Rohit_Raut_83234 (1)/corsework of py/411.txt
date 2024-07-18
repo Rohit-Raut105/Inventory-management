@@ -1,0 +1,10 @@
+\t			Bill no: 411
+date: 11/05/2023					 Time: 12:14:25
+name:  q
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 3
+Total price: 6000
+
+vat amount: 780.0
+Grand Total = 6780.0

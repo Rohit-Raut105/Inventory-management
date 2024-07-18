@@ -1,0 +1,12 @@
+/t/t/tBill no: 103
+date: 10/05/2023					 Time: 18:49:12
+name:  a
+Address: a
+Number: 1
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 Quantity: 3
+Total price: 6000
+
+Shipping cost: 250
+Total: 6000
+Grand total: 6250

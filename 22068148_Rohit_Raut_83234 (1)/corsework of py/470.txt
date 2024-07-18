@@ -1,0 +1,10 @@
+\t			Bill no: 470
+date: 11/05/2023					 Time: 21:37:51
+name:  Anup
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 
+Quantity: 1
+Total price: 2000
+
+vat amount: 260.0
+Grand Total = 2260.0

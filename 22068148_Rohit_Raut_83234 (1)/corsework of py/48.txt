@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------------------------
+	 	 	 	 	 	 	 	 	  Famous Laptop Store
+
+	 	 	 	 	 	 	 	  Hatiban , kathmandu  | 9821108680
+-----------------------------------------------------------------------------------------------------------------------------------
+
+/t/t/tBill no: 48
+date: 12/05/2023					 Time: 02:52:21
+name:  q
+Address: q
+Contact Number: 1
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 Quantity: 1
+Total price: 1976
+
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 Quantity: 3
+Total price: 5928
+
+Total: 7904

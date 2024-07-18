@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------------------------
+	 	 	 	 	 	 	 	 	  Famous Laptop Store
+
+	 	 	 	 	 	 	 	  Hatiban , kathmandu  | 9821108680
+-----------------------------------------------------------------------------------------------------------------------------------
+
+/t/t/tBill no: 222
+date: 12/05/2023					 Time: 02:48:31
+name:  q
+Address: q
+Contact Number: 1
+Laptop Name: Alienware				Company Name: Alienware
+Price: $1978					 Quantity: 3
+Total price: 5934
+
+Laptop Name: Alienware				Company Name: Alienware
+Price: $1978					 Quantity: 3
+Total price: 5934
+
+Total: 11868

@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------------------------------------------------------------
+	 	 	 	 	 	 	 	 	  Famous Laptop Store
+
+	 	 	 	 	 	 	 	  Hatiban , kathmandu  | 9821108680
+-----------------------------------------------------------------------------------------------------------------------------------
+
+/t/t/tBill no: 493
+date: 11/05/2023					 Time: 23:38:44
+name:  Anup
+Address: Kathmandu
+Contact Number: 12345
+Laptop Name: Razer Blade				Company Name: Razer
+Price: $2000					 Quantity: 1
+Total price: 2000
+
+Shipping cost: 250
+Total: 2000
+Grand total: 2250

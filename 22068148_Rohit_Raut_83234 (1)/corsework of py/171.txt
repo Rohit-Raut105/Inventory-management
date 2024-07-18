@@ -1,0 +1,22 @@
+
+------------------------------------------------------------------------------------------------------------------------------------
+	 	 	 	 	 	 	 	 	  Famous Laptop Store
+
+	 	 	 	 	 	 	 	  Hatiban , kathmandu  | 9821108680
+-----------------------------------------------------------------------------------------------------------------------------------
+
+\t			Bill no: 171
+date: 12/05/2023					 Time: 08:58:35
+name:  anup
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 
+Quantity: 5
+Total price: 9880
+
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 
+Quantity: 25
+Total price: 49400
+
+vat amount: 7706.400000000001
+Grand Total = 66986.4

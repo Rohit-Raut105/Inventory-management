@@ -1,0 +1,15 @@
+\t			Bill no: 441
+date: 11/05/2023					 Time: 00:29:44
+name:  as
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 
+Quantity: 2
+Total price: 3952
+
+Laptop Name: XPS				Company Name: Dell
+Price: $1976					 
+Quantity: 1
+Total price: 1976
+
+vat amount: 770.64
+Grand Total = 6698.64
